@@ -58,6 +58,10 @@ class DmgtCharacter
                   const std::string &alignment,
                   const std::string &name);
     ~DmgtCharacter() {};
+    
+    //Level up the character by x number of levels passed
+    void levelUp(const int levels);
+    
     //void parse(const std::string &file_name);
   private:
     std::string             name_;
