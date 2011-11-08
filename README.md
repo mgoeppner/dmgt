@@ -20,8 +20,6 @@ Contact eMail:     riskywhiskey@gmail.com
 
 Project:           Dungeon Master Geek Tools
 
-This File:         Read Me Text
-
 Copyright (C) 2007-2011 RiskyWhiskey http://www.riskywhiskey.com.au/
 
 This program is free software: you can redistribute it and/or modify it under
