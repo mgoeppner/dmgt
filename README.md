@@ -1,18 +1,5 @@
 
-                        /
-                       /0
-                      /00                            /
-                   ____00 ___  __    __     __   /  /0
-                  0000000 000 0000  0000   0000000 /00000
-                 000  000  0000 00000 000 000000    00
-                 00    00  000   000   00 00  00    00
-                 00    00  00    00    00 00  00    00
-                 00    00  00    00    00  0000     00
-                 000  000  00    00    00 00        000 /
-                  00000000_00_  _00_  _00_ 000000    0000
-                                          00    00
-                                          00   000
-                                           000000
+![dmgt Logo](http://dmgt.riskywhiskey.com.au/images/dmgt128.png)
 
 Dungeon Master Geek Tools
 ================================================================================
@@ -26,9 +13,13 @@ expandable store of data, this application shall generate the needed game stats
 of any creature.
 
 Author:            Ian Whitnall
+
 Website URL:       http://www.riskywhiskey.com.au
+
 Contact eMail:     riskywhiskey@gmail.com
+
 Project:           Dungeon Master Geek Tools
+
 This File:         Read Me Text
 
 Copyright (C) 2007-2011 RiskyWhiskey http://www.riskywhiskey.com.au/
