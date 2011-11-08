@@ -128,7 +128,7 @@ signed int DmgtAbilities::score(const unsigned int &ability,
     if (ability >= 6)
     {
         std::string functionName = "dmgt::DmgtAbilities::score()";
-        std::string errorMessage = "Intiger outside range (0-5).";
+        std::string errorMessage = "Integer outside range (0-5).";
         throw DmgtError(functionName, errorMessage);
     }
     // Return a single ability score
@@ -143,7 +143,7 @@ signed int DmgtAbilities::mod(const unsigned int &ability,
     if (ability >= 6)
     {
         std::string functionName = "dmgt::DmgtAbilities::mod()";
-        std::string errorMessage = "Intiger outside range (0-5).";
+        std::string errorMessage = "Integer outside range (0-5).";
         throw DmgtError(functionName, errorMessage);
     }
     // Return a single ability modifier by subtracting ten from the ability
